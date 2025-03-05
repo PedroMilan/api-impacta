@@ -25,6 +25,15 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Instale nossa aplicação em sua máquina
+
+```bash
+  - Instale o nest se necessário
+  - Abra o docker e de o comando no terminal docker compose up --build
+  - No terminal, após rodar o docker, de o comando yarn start:dev
+  - Feito isso, a api estará online!
+```
+
 ## Project setup
 
 ```bash
@@ -96,4 +105,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
 # api-impacta
